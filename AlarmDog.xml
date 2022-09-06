@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Settings>
+  <Task1 name="Задание1">
+    <Path>D:\TEMP\Test</Path>
+    <Mask>*.*</Mask>
+  </Task1>
+  <Task2 name="Задание 2">
+    <Path>F:\Bars.tss\TRANSFER\NBU\IN</Path>
+    <Mask>*.*</Mask>
+    <Path>
+    </Path>
+    <Mask>
+    </Mask>
+  </Task2>
+  <Task2 name="Задание 2">
+  </Task2>
+  <Task3 name="Задание 3">
+    <Path>F:\Bars.tss\TRANSFER\NBU\IN</Path>
+    <Mask>*.*</Mask>
+  </Task3>
+</Settings>
